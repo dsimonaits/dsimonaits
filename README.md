@@ -8,7 +8,7 @@
 
 🌐 Global Outlook: Fluent in English, I ensure seamless communication within multicultural teams and am open to international opportunities.
 
-🌱 Continuous Growth: My commitment to personal and professional growth is unwavering. I'm not just a developer; I'm a passionate learner, ready to take on the future of tech.
+🌱 Continuous Growth: My commitment to personal and professional growth is unwavering. I'm not just a developer, I'm a passionate learner, ready to take on the future of tech.
 
 Let's embark on this journey together, creating innovative solutions and advancing technology.
 <!---
