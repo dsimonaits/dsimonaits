@@ -10,7 +10,6 @@
 
 🌱 Continuous Growth: My commitment to personal and professional growth is unwavering. I'm not just a developer, I'm a passionate learner, ready to take on the future of tech.
 
-Let's embark on this journey together, creating innovative solutions and advancing technology.
 <!---
 dsimonaits/dsimonaits is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
