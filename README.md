@@ -1,6 +1,6 @@
 🚀 Passionate Learner: I'm Deniss, a driven Full Stack Developer, always eager to learn and adapt. My journey in software development has been marked by continuous growth, evolving from a novice to a developer with a growth mindset.
 
-🌟 Adaptability: My experience predominantly lies in JavaScript, React, and Node.js, but I don't let that limit me. I'm open to embracing new challenges and technologies, like my recent endeavor in learning TypeScript.
+🌟 Adaptability: My experience predominantly lies in JavaScript/TypeScript, React and Node.js, but I don't let that limit me. I'm open to embracing new challenges and technologies.
 
 🤝 Collaborative Team Player: Collaboration is at the heart of what I do. I thrive in diverse technical teams and foster a collaborative spirit. Effective communication and teamwork are my forte.
 
